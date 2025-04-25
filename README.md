@@ -22,10 +22,7 @@ This is a Fully Functional MERN stack project Youtube clone using React, Node, M
 <li>ReactJS</li>
 <li>NodeJS</li>
 <li>Nodemailer</li>
-<li>Redux Toolkit</li>
-<li>Redux Persist</li>
 <li>Axios</li>
-<li>Firebase</li>
 </ul>
 
 
@@ -35,7 +32,7 @@ This project requires the following tools:
 - [NPM](https://www.npmjs.com/) - A Node.js package manager used to install dependencies.
 - [MongoDB](https://nodejs.org/en/) - A Complete No-SQL Database.
 - [MongoDB](https://www.mongodb.com/) - A Complete No-SQL Database.
-- [Firebase](https://firebase.google.com/) - Google Firebase is a Google-backed application development software.
+
 
 To get started, install NPM and NodeJS on your local computer if you don't have them already.
 
